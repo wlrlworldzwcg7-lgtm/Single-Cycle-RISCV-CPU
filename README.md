@@ -9,10 +9,10 @@
 ## Architecture/Design
 核心控制逻辑与数据通路基于Harvey Mudd College的计算机体系结构相关课程的真值表设计
 ![datapath](e72918191499f2f9303075003c282dd4.png)
-![control structure](6aa7facf5d113bd11f6a14be6a19b834.jpg)
-![main decoder](ba1879f81b5b9d8aeb354db519c878d3-1.jpg)
-![ALU decoder](dd3dd08b48be7a458d0f515db76ee7d2.jpg)
-![ImmSrc](30011af71a470681af9f51ba63f81c8e-1.jpg)
+<img src="6aa7facf5d113bd11f6a14be6a19b834.jpg" width = "400" alt = "control structure" />
+![main decoder](ba1879f81b5b9d8aeb354db519c878d3-2.jpg)
+![ALU decoder](dd3dd08b48be7a458d0f515db76ee7d2-1.jpg)
+![ImmSrc](30011af71a470681af9f51ba63f81c8e-2.jpg)
 
 ## File Structure
 - top_module.sv: 顶层连线模块
